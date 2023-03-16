@@ -1,0 +1,1 @@
+Hello! To install netfoll user bot using script you need to open console in the install file folder and write "bash install.sh". If you haven`t install git and python3 select in script number 2, before installing netfoll! by primelog. telegram - t.me/primelogdev
